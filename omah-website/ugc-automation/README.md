@@ -57,6 +57,34 @@ ugc-automation/output/week-XX/videos/
 
 These are real 9:16 MP4 drafts with branded overlays. Replace the image URLs in `products.json` with real product photos or AI-generated scenes to improve the output.
 
+## AI Model Video Creation
+
+Use Luma to generate moving b-roll scenes, then compose Omah overlays on top.
+
+Setup:
+
+```bash
+set LUMA_API_KEY=your_luma_key_here
+```
+
+Dry run:
+
+```bash
+node ugc-automation/generate-ai-scenes-luma.js --week 1 --limit 3 --dry-run
+```
+
+Generate AI scenes:
+
+```bash
+node ugc-automation/generate-ai-scenes-luma.js --week 1 --limit 3
+```
+
+Compose final AI reels:
+
+```bash
+node ugc-automation/compose-ai-reels.js --week 1 --limit 3
+```
+
 ## Workflow
 
 1. Run generator.

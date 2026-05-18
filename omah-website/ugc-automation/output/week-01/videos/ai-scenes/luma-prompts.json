@@ -1,0 +1,29 @@
+[
+  {
+    "file": "01-mini-aroma-diffuser.mp4",
+    "product": "Mini Aroma Diffuser",
+    "prompt": "vertical 9:16 luxury wellness product b-roll for Omah, a soft Indian wellness lifestyle brand. product theme: Mini Aroma Diffuser. mood: calm desk energy. scene: desk reset, bedside routine, gifting. visual details: diffuser mist, desk before/after, hand adding oil drops, nightstand glow. camera: slow handheld push-in, soft natural light, premium D2C skincare-ad feel, playful Lemme-inspired color energy. avoid text, avoid logos, avoid people speaking, avoid medical claims, avoid distorted hands",
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1200&q=85",
+    "model": "ray-flash-2",
+    "resolution": "720p",
+    "duration": "5s"
+  },
+  {
+    "file": "02-essential-oil-blends.mp4",
+    "product": "Essential Oil Blends",
+    "prompt": "vertical 9:16 luxury wellness product b-roll for Omah, a soft Indian wellness lifestyle brand. product theme: Essential Oil Blends. mood: soft mood reset. scene: oil refill, bath corner, work break. visual details: oil bottle closeup, drops on palm, label lineup, diffuser pairing. camera: slow handheld push-in, soft natural light, premium D2C skincare-ad feel, playful Lemme-inspired color energy. avoid text, avoid logos, avoid people speaking, avoid medical claims, avoid distorted hands",
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1200&q=85",
+    "model": "ray-flash-2",
+    "resolution": "720p",
+    "duration": "5s"
+  },
+  {
+    "file": "03-intention-candles.mp4",
+    "product": "Intention Candles",
+    "prompt": "vertical 9:16 luxury wellness product b-roll for Omah, a soft Indian wellness lifestyle brand. product theme: Intention Candles. mood: evening calm. scene: Sunday reset, gifting, night routine. visual details: match strike, candle lighting, book and tea, soft room corner. camera: slow handheld push-in, soft natural light, premium D2C skincare-ad feel, playful Lemme-inspired color energy. avoid text, avoid logos, avoid people speaking, avoid medical claims, avoid distorted hands",
+    "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1200&q=85",
+    "model": "ray-flash-2",
+    "resolution": "720p",
+    "duration": "5s"
+  }
+]
