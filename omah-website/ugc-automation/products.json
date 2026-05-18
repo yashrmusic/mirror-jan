@@ -7,7 +7,8 @@
     "feeling": "calm desk energy",
     "useCase": "desk reset, bedside routine, gifting",
     "visuals": ["diffuser mist", "desk before/after", "hand adding oil drops", "nightstand glow"],
-    "claimsSafeBenefit": "helps create a softer room ritual"
+    "claimsSafeBenefit": "helps create a softer room ritual",
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1200&q=85"
   },
   {
     "name": "Essential Oil Blends",
@@ -17,7 +18,8 @@
     "feeling": "soft mood reset",
     "useCase": "oil refill, bath corner, work break",
     "visuals": ["oil bottle closeup", "drops on palm", "label lineup", "diffuser pairing"],
-    "claimsSafeBenefit": "supports a quick sensory reset"
+    "claimsSafeBenefit": "supports a quick sensory reset",
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1200&q=85"
   },
   {
     "name": "Intention Candles",
@@ -27,7 +29,8 @@
     "feeling": "evening calm",
     "useCase": "Sunday reset, gifting, night routine",
     "visuals": ["match strike", "candle lighting", "book and tea", "soft room corner"],
-    "claimsSafeBenefit": "sets the mood for a calm pause"
+    "claimsSafeBenefit": "sets the mood for a calm pause",
+    "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1200&q=85"
   },
   {
     "name": "Herbal Tea Rituals",
@@ -37,7 +40,8 @@
     "feeling": "slow wind-down",
     "useCase": "evening routine, work break, gift hamper",
     "visuals": ["tea pour", "steam closeup", "tea tin opening", "journal beside cup"],
-    "claimsSafeBenefit": "makes a daily pause feel more intentional"
+    "claimsSafeBenefit": "makes a daily pause feel more intentional",
+    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=85"
   },
   {
     "name": "Energy Journal",
@@ -47,7 +51,8 @@
     "feeling": "mind reset",
     "useCase": "journaling, mood tracking, bedtime notes",
     "visuals": ["pen writing", "page flip", "bedside journal", "morning light"],
-    "claimsSafeBenefit": "helps turn scattered thoughts into a small ritual"
+    "claimsSafeBenefit": "helps turn scattered thoughts into a small ritual",
+    "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=85"
   },
   {
     "name": "Evil Eye Bracelet",
@@ -57,7 +62,8 @@
     "feeling": "daily protection cue",
     "useCase": "daily wear, gifting, stacking",
     "visuals": ["wrist stack", "mirror get-ready shot", "gift box", "closeup bead texture"],
-    "claimsSafeBenefit": "works as a wearable intention reminder"
+    "claimsSafeBenefit": "works as a wearable intention reminder",
+    "imageUrl": "https://shubh-website.vercel.app/products/evil-eye-bracelet.jpg"
   },
   {
     "name": "Raw Pyrite Bracelet",
@@ -67,7 +73,8 @@
     "feeling": "workday abundance cue",
     "useCase": "office, wallet ritual, desk setup",
     "visuals": ["bracelet on laptop", "money journal", "wrist closeup", "desk tray"],
-    "claimsSafeBenefit": "adds a small abundance cue to the workday"
+    "claimsSafeBenefit": "adds a small abundance cue to the workday",
+    "imageUrl": "https://shubh-website.vercel.app/products/raw-pyrite-bracelet.jpg"
   },
   {
     "name": "Calm Kit",
@@ -77,7 +84,8 @@
     "feeling": "starter calm ritual",
     "useCase": "first Omah purchase, gifting, nightstand",
     "visuals": ["kit flatlay", "unboxing", "candle plus oil plus journal", "ribbon closeup"],
-    "claimsSafeBenefit": "bundles simple objects for a softer daily pause"
+    "claimsSafeBenefit": "bundles simple objects for a softer daily pause",
+    "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1200&q=85"
   },
   {
     "name": "Desk Energy Kit",
@@ -87,6 +95,7 @@
     "feeling": "focused work corner",
     "useCase": "desk setup, office gift, founder routine",
     "visuals": ["desk before/after", "diffuser and pyrite", "tray styling", "laptop corner"],
-    "claimsSafeBenefit": "turns a work corner into a more intentional setup"
+    "claimsSafeBenefit": "turns a work corner into a more intentional setup",
+    "imageUrl": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=1200&q=85"
   }
 ]

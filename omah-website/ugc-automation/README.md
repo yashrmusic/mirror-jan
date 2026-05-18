@@ -35,6 +35,28 @@ Output goes into:
 ugc-automation/output/week-XX/
 ```
 
+## Render Actual MP4 Reel Drafts
+
+Requires Node.js and FFmpeg.
+
+```bash
+node ugc-automation/render-videos.js --week 1 --limit 3
+```
+
+For a full 7-day batch:
+
+```bash
+node ugc-automation/render-videos.js --week 1 --limit 7
+```
+
+Videos are written to:
+
+```text
+ugc-automation/output/week-XX/videos/
+```
+
+These are real 9:16 MP4 drafts with branded overlays. Replace the image URLs in `products.json` with real product photos or AI-generated scenes to improve the output.
+
 ## Workflow
 
 1. Run generator.
@@ -43,4 +65,3 @@ ugc-automation/output/week-XX/
 4. Edit in CapCut using the shot list.
 5. Schedule in Meta Business Suite.
 6. Use ManyChat/Meta-approved tools for keyword DM flows only after people comment or DM.
-
