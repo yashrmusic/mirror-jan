@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Mini Aroma Diffuser",
+    "category": "Room Ritual",
+    "price": "Rs. 799",
+    "keyword": "CALM",
+    "feeling": "calm desk energy",
+    "useCase": "desk reset, bedside routine, gifting",
+    "visuals": ["diffuser mist", "desk before/after", "hand adding oil drops", "nightstand glow"],
+    "claimsSafeBenefit": "helps create a softer room ritual"
+  },
+  {
+    "name": "Essential Oil Blends",
+    "category": "Scent",
+    "price": "Rs. 349",
+    "keyword": "OIL",
+    "feeling": "soft mood reset",
+    "useCase": "oil refill, bath corner, work break",
+    "visuals": ["oil bottle closeup", "drops on palm", "label lineup", "diffuser pairing"],
+    "claimsSafeBenefit": "supports a quick sensory reset"
+  },
+  {
+    "name": "Intention Candles",
+    "category": "Glow",
+    "price": "Rs. 499",
+    "keyword": "GLOW",
+    "feeling": "evening calm",
+    "useCase": "Sunday reset, gifting, night routine",
+    "visuals": ["match strike", "candle lighting", "book and tea", "soft room corner"],
+    "claimsSafeBenefit": "sets the mood for a calm pause"
+  },
+  {
+    "name": "Herbal Tea Rituals",
+    "category": "Sip",
+    "price": "Rs. 399",
+    "keyword": "SIP",
+    "feeling": "slow wind-down",
+    "useCase": "evening routine, work break, gift hamper",
+    "visuals": ["tea pour", "steam closeup", "tea tin opening", "journal beside cup"],
+    "claimsSafeBenefit": "makes a daily pause feel more intentional"
+  },
+  {
+    "name": "Energy Journal",
+    "category": "Journal",
+    "price": "Rs. 349",
+    "keyword": "JOURNAL",
+    "feeling": "mind reset",
+    "useCase": "journaling, mood tracking, bedtime notes",
+    "visuals": ["pen writing", "page flip", "bedside journal", "morning light"],
+    "claimsSafeBenefit": "helps turn scattered thoughts into a small ritual"
+  },
+  {
+    "name": "Evil Eye Bracelet",
+    "category": "Daily Shield",
+    "price": "Rs. 299",
+    "keyword": "SHIELD",
+    "feeling": "daily protection cue",
+    "useCase": "daily wear, gifting, stacking",
+    "visuals": ["wrist stack", "mirror get-ready shot", "gift box", "closeup bead texture"],
+    "claimsSafeBenefit": "works as a wearable intention reminder"
+  },
+  {
+    "name": "Raw Pyrite Bracelet",
+    "category": "Energy",
+    "price": "Rs. 699",
+    "keyword": "PYRITE",
+    "feeling": "workday abundance cue",
+    "useCase": "office, wallet ritual, desk setup",
+    "visuals": ["bracelet on laptop", "money journal", "wrist closeup", "desk tray"],
+    "claimsSafeBenefit": "adds a small abundance cue to the workday"
+  },
+  {
+    "name": "Calm Kit",
+    "category": "Bundle",
+    "price": "Rs. 999",
+    "keyword": "CALM",
+    "feeling": "starter calm ritual",
+    "useCase": "first Omah purchase, gifting, nightstand",
+    "visuals": ["kit flatlay", "unboxing", "candle plus oil plus journal", "ribbon closeup"],
+    "claimsSafeBenefit": "bundles simple objects for a softer daily pause"
+  },
+  {
+    "name": "Desk Energy Kit",
+    "category": "Bundle",
+    "price": "Rs. 1,299",
+    "keyword": "DESK",
+    "feeling": "focused work corner",
+    "useCase": "desk setup, office gift, founder routine",
+    "visuals": ["desk before/after", "diffuser and pyrite", "tray styling", "laptop corner"],
+    "claimsSafeBenefit": "turns a work corner into a more intentional setup"
+  }
+]

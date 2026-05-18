@@ -1,0 +1,86 @@
+[
+  {
+    "keyword": "CALM",
+    "publicReply": "sent you the mini aroma diffuser details",
+    "dmDraft": "hi, this is the Omah Mini Aroma Diffuser ritual. it is Rs. 799 and helps create a softer room ritual. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  },
+  {
+    "keyword": "OIL",
+    "publicReply": "sent you the essential oil blends details",
+    "dmDraft": "hi, this is the Omah Essential Oil Blends ritual. it is Rs. 349 and supports a quick sensory reset. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  },
+  {
+    "keyword": "GLOW",
+    "publicReply": "sent you the intention candles details",
+    "dmDraft": "hi, this is the Omah Intention Candles ritual. it is Rs. 499 and sets the mood for a calm pause. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  },
+  {
+    "keyword": "SIP",
+    "publicReply": "sent you the herbal tea rituals details",
+    "dmDraft": "hi, this is the Omah Herbal Tea Rituals ritual. it is Rs. 399 and makes a daily pause feel more intentional. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  },
+  {
+    "keyword": "JOURNAL",
+    "publicReply": "sent you the energy journal details",
+    "dmDraft": "hi, this is the Omah Energy Journal ritual. it is Rs. 349 and helps turn scattered thoughts into a small ritual. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  },
+  {
+    "keyword": "SHIELD",
+    "publicReply": "sent you the evil eye bracelet details",
+    "dmDraft": "hi, this is the Omah Evil Eye Bracelet ritual. it is Rs. 299 and works as a wearable intention reminder. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  },
+  {
+    "keyword": "PYRITE",
+    "publicReply": "sent you the raw pyrite bracelet details",
+    "dmDraft": "hi, this is the Omah Raw Pyrite Bracelet ritual. it is Rs. 699 and adds a small abundance cue to the workday. want the product link or the full starter kit?",
+    "humanEscalation": [
+      "refund",
+      "complaint",
+      "medical question",
+      "bulk order",
+      "payment issue"
+    ]
+  }
+]

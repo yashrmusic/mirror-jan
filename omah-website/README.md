@@ -17,5 +17,10 @@ Core brand rules used:
 Open locally:
 - Double-click `index.html`
 
+UGC automation:
+- Run `node ugc-automation/generate-content-pack.js --week 1`
+- Weekly output appears in `ugc-automation/output/week-01/`
+- Use the output for Reel scripts, captions, shot lists, approval queues, and Meta scheduler planning.
+
 Deploy later:
 - This folder can be uploaded as a static site to Vercel, Netlify, GitHub Pages, or any basic hosting.
