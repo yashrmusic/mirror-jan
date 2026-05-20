@@ -85,6 +85,26 @@ Compose final AI reels:
 node ugc-automation/compose-ai-reels.js --week 1 --limit 3
 ```
 
+## Vocii Free Credit Workflow
+
+If using Vocii manually, generate copy-paste prompts:
+
+```bash
+node ugc-automation/generate-vocii-prompts.js --week 1 --limit 7
+```
+
+Then create/download clips from Vocii and save them into:
+
+```text
+ugc-automation/output/week-01/videos/ai-scenes/
+```
+
+Finally compose branded Omah reels:
+
+```bash
+node ugc-automation/compose-ai-reels.js --week 1 --limit 7
+```
+
 ## Workflow
 
 1. Run generator.
