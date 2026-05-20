@@ -105,6 +105,21 @@ Finally compose branded Omah reels:
 node ugc-automation/compose-ai-reels.js --week 1 --limit 7
 ```
 
+## ElevenLabs Voiceovers
+
+Generate voiceover audio:
+
+```bash
+set ELEVENLABS_API_KEY=your_key_here
+node ugc-automation/generate-elevenlabs-voiceovers.js --week 1 --limit 7
+```
+
+Mux voiceovers into video drafts:
+
+```bash
+node ugc-automation/mux-voiceovers.js --week 1 --limit 7 --source videos
+```
+
 ## Workflow
 
 1. Run generator.

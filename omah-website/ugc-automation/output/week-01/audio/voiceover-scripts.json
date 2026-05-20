@@ -1,0 +1,65 @@
+[
+  {
+    "product": {
+      "name": "Mini Aroma Diffuser",
+      "category": "Room Ritual",
+      "price": "Rs. 799",
+      "keyword": "CALM",
+      "feeling": "calm desk energy",
+      "useCase": "desk reset, bedside routine, gifting",
+      "visuals": [
+        "diffuser mist",
+        "desk before/after",
+        "hand adding oil drops",
+        "nightstand glow"
+      ],
+      "claimsSafeBenefit": "helps create a softer room ritual",
+      "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1200&q=85"
+    },
+    "hook": "this is your calm desk energy in 15 seconds",
+    "fileBase": "01-mini-aroma-diffuser",
+    "text": "this is your calm desk energy in 15 seconds This is Mini Aroma Diffuser, an Omah room ritual for calm desk energy. helps create a softer room ritual A tiny cue to begin within."
+  },
+  {
+    "product": {
+      "name": "Essential Oil Blends",
+      "category": "Scent",
+      "price": "Rs. 349",
+      "keyword": "OIL",
+      "feeling": "soft mood reset",
+      "useCase": "oil refill, bath corner, work break",
+      "visuals": [
+        "oil bottle closeup",
+        "drops on palm",
+        "label lineup",
+        "diffuser pairing"
+      ],
+      "claimsSafeBenefit": "supports a quick sensory reset",
+      "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1200&q=85"
+    },
+    "hook": "which omah ritual should you start with",
+    "fileBase": "02-essential-oil-blends",
+    "text": "which omah ritual should you start with This is Essential Oil Blends, an Omah scent for soft mood reset. supports a quick sensory reset Start simple, and let the ritual fit your day."
+  },
+  {
+    "product": {
+      "name": "Intention Candles",
+      "category": "Glow",
+      "price": "Rs. 499",
+      "keyword": "GLOW",
+      "feeling": "evening calm",
+      "useCase": "Sunday reset, gifting, night routine",
+      "visuals": [
+        "match strike",
+        "candle lighting",
+        "book and tea",
+        "soft room corner"
+      ],
+      "claimsSafeBenefit": "sets the mood for a calm pause",
+      "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1200&q=85"
+    },
+    "hook": "unboxing the softest little ritual",
+    "fileBase": "03-intention-candles",
+    "text": "unboxing the softest little ritual This is Intention Candles, an Omah glow for evening calm. sets the mood for a calm pause Soft, easy, and made for everyday energy."
+  }
+]
