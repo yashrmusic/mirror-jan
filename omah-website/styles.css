@@ -61,23 +61,19 @@ a {
   gap: 12px;
 }
 
-.brand-mark {
-  display: grid;
-  width: 44px;
-  height: 44px;
-  place-items: center;
-  border: 2px solid currentColor;
-  border-radius: 50%;
-  font-family: "Fraunces", Georgia, serif;
-  font-size: 26px;
-  line-height: 1;
+.brand-logo,
+.footer-logo {
+  width: auto;
+  object-fit: contain;
+  border-radius: 999px;
 }
 
-.brand-name {
-  font-family: "Inter Tight", Inter, sans-serif;
-  font-size: 25px;
-  font-weight: 900;
-  letter-spacing: 0;
+.brand-logo {
+  height: 42px;
+}
+
+.footer-logo {
+  height: 50px;
 }
 
 .nav {
@@ -576,6 +572,14 @@ h3 {
 @media (max-width: 560px) {
   .site-header {
     padding: 14px 16px;
+  }
+
+  .brand-logo {
+    height: 34px;
+  }
+
+  .footer-logo {
+    height: 40px;
   }
 
   .header-cta {
