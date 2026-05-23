@@ -13,7 +13,7 @@ Editable files:
 Brand direction:
 - Brand name: Omah
 - Moodline: Begin within.
-- Visual reference: Lemme-inspired playful wellness styling
+- Visual direction: playful premium wellness styling
 - Tone: soft, calm, modern, lifestyle-first, not heavy spiritual language
 
 How to work with Codex:

@@ -253,7 +253,7 @@ AI can handle first replies, but escalate:
 
 ### Reel Script Prompt
 
-Create 5 Instagram Reel scripts for Omah, a soft wellness lifestyle brand. Product: [PRODUCT]. Audience: Indian women 18-35 and gift buyers. Tone: playful, calm, modern, slightly Lemme-inspired, not heavy or fear-based. Each script must be 7-15 seconds, include a strong hook, shot list, text overlays, caption, CTA, and hashtags. Avoid medical claims.
+Create 5 Instagram Reel scripts for Omah, a soft wellness lifestyle brand. Product: [PRODUCT]. Audience: Indian women 18-35 and gift buyers. Tone: playful, calm, modern, premium, not heavy or fear-based. Each script must be 7-15 seconds, include a strong hook, shot list, text overlays, caption, CTA, and hashtags. Avoid medical claims.
 
 ### UGC Video Prompt
 

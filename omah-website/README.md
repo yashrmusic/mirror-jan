@@ -11,8 +11,7 @@ Core brand rules used:
 - Moodline: `Begin within.`
 - Tone: soft, calm, intimate, modern, non-intimidating
 - Origin: inspired by `Om Namah`, simplified into a minimal form
-- Styling reference requested: `https://lemmelive.com/`
-- Adapted cues: playful lowercase headlines, lavender/lilac base, electric blue, acid green, coral, chunky pill CTAs, ticker strip, horizontal product slider
+- Visual direction: playful lowercase headlines, lavender/lilac base, electric blue, acid green, coral, chunky pill CTAs, ticker strip, horizontal product slider
 
 Open locally:
 - Double-click `index.html`

@@ -57,7 +57,7 @@ function buildPost(index) {
     `mood: ${product.feeling}`,
     `scene: ${product.useCase}`,
     `visual details: ${product.visuals.join(", ")}`,
-    `camera: slow handheld push-in, soft natural light, premium D2C skincare-ad feel, playful Lemme-inspired color energy`,
+    `camera: slow handheld push-in, soft natural light, premium Indian D2C wellness-ad feel, playful color energy`,
     `avoid text, avoid logos, avoid people speaking, avoid medical claims, avoid distorted hands`,
   ].join(". ");
 
@@ -176,4 +176,3 @@ main().catch((error) => {
   console.error(error.message);
   process.exit(1);
 });
-

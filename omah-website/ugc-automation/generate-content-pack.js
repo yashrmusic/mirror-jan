@@ -88,7 +88,7 @@ function buildAiPrompt(product, contentType, hook) {
     `Content type: ${contentType}.`,
     `Product: ${product.name}.`,
     `Hook: ${hook}.`,
-    `Mood: playful, calm, Lemme-inspired, lowercase, Indian D2C wellness.`,
+    `Mood: playful, calm, premium, lowercase, Indian D2C wellness.`,
     `Use these visuals: ${product.visuals.join(", ")}.`,
     `Do not make medical claims or fake customer testimonial claims.`,
     `Output: shot list, voiceover, text overlays, caption, thumbnail text, and editing notes.`,
